@@ -16,7 +16,7 @@ The following map representation has 4 islands.
 
 Therefore, the algorithm output should be 4.
 
-Code snipped:
+Code snippet:
 
 ```java
 
